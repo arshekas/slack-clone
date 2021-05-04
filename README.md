@@ -1,3 +1,9 @@
+# Live Site -
+https://slack-clone-d2c15.web.app/
+
+build by watching clever Programmer channel youtube. 
+https://www.youtube.com/watch?v=Oo4ziTddOxs&t=1916s
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
