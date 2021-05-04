@@ -1,5 +1,5 @@
 # Live Site -
-https://slack-clone-d2c15.web.app/
+https://slack-clone-d2c15.web.app/ - **Not mobile responsive yet**
 
 build by watching clever Programmer channel youtube. 
 https://www.youtube.com/watch?v=Oo4ziTddOxs&t=1916s
